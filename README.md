@@ -25,7 +25,7 @@
 -Youtube Studio
 -Word, Excel, PowerPoint
 
-- .Net Core MVC (Web Design and Developer with C#), Android Studio (Flutter Mobile Programming), Image Processing with Python, QT (GUI with C++), SQLite Studio and SQL Server (Database), Unity (Game Engine with C#), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence)
+- Unity (Game Design and Developer with C#), Android Studio (Flutter Mobile Programming), Image Processing with Python, QT (GUI with C++), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence)
 
 📫 Contact
 
@@ -33,7 +33,7 @@
 [<img src='https://camo.githubusercontent.com/15fac66e9d46100fc2ed058c51cad4929569a9713d8d2827575e6931edd2ab72/68747470733a2f2f7777772e63616e676f6b636561736c616e2e636f6d2f63616e676f6b636561736c616e2f7374617469632f696e7374616772616d2e7376673f63616368655f64656c6574653d32' alt='instagram' height='40'>](https://www.instagram.com/taylandurannn/)         
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhankosali)](https://github.com/duhankosali)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umuttaylanduran)](https://github.com/umuttaylanduran)
 
 
 🔭 I’m currently working on this page.  
