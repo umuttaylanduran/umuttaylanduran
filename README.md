@@ -12,7 +12,7 @@
 
 
 ⚡ Computer Information
- - C#, C++, Java, Phyton. 
+ - C#, C++, JavaScript, Phyton. 
 -JavaScript
 -Processing
 -Unity 3D
@@ -22,10 +22,8 @@
 -Adobe Premiere
 -Blender
 -Substance Painter
--Youtube Studio
--Word, Excel, PowerPoint
 
-- Unity (Game Design and Developer with C#), Android Studio (Flutter Mobile Programming), Image Processing with Python, QT (GUI with C++), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence)
+- Unity2D (Game Design and Developer with C#), Unity3D (Game Design and Developer with C#),Image Processing with Python, QT (GUI with C++), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence), Mautodesk Maya 3D (Game Objects and Rigging), Blender 3D (Game Objects), Adobe Photoshop (2D Game and Charachter Design), Adobe XD ( UX and UI Design).
 
 📫 Contact
 
