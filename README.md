@@ -13,15 +13,6 @@
 
 ⚡ Computer Information
  - C#, C++, JavaScript, Phyton. 
--JavaScript
--Processing
--Unity 3D
--Unity 2D
--Autodesk Maya 3D
--Adobe Photoshop
--Adobe Premiere
--Blender
--Substance Painter
 
 - Unity2D (Game Design and Developer with C#), Unity3D (Game Design and Developer with C#),Image Processing with Python, QT (GUI with C++), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence), Mautodesk Maya 3D (Game Objects and Rigging), Blender 3D (Game Objects), Adobe Photoshop (2D Game and Charachter Design), Adobe XD ( UX and UI Design).
 
