@@ -1,18 +1,23 @@
 ### Hi there 👋,I'am Umut Taylan Duran.
 
-#### Game Desing & Game Developer
+#### Game Desing & Game Developer & Soft
 ![Software Design & Development](https://camo.githubusercontent.com/3aa437f9d92e1ee0c5058494163fb0baf80edcc56ea663e48e1db50d49ffe26f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e77656270)
 
 💬 About Me
-- I'm Taylan from Turkey and student at Istanbul Aydin University Game Digital Game Design and Istanbul University Management Information Systems.
-- I am very interested in software, design and video games. I love to research and learn new things.,
+- I'm Taylan from Turkey and I am Digital Game Design and Management Information Systems graduate
+- I am very interested in software, design and video games. I love to research and learn new things.
+- I am a motivated individual who combines creative thinking and technical skills to contribute to game development processes.
+- I have a strong foundation in analyzing game mechanics, designing user interfaces, and understanding game physics in detail. Additionally, my knowledge of software engineering principles and design patterns empowers me to effectively create and optimize complex game systems.,
 
+-
 - Love to use new technologies and frameworks,
 - I'am constantly trying to improve myself.
+- Object Oriented Analysis, Design and Development,
+- Strongly coding with OOP, SOLID, DRY, Software Design Principles and Design Patterns,
 
 
 ⚡ Computer Information
- - C#, C++,C, JavaScript, Phyton. 
+ - C#, Blueprint C++,C, JavaScript, Phyton. 
 
 - Unity2D (Game Design and Developer with C#), Unity3D (Game Design and Developer with C#),Image Processing with Python, QT (GUI with C++), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence), Mautodesk Maya 3D (Game Objects and Rigging), Blender 3D (Game Objects), Adobe Photoshop (2D Game and Charachter Design), Adobe XD ( UX and UI Design).
 
